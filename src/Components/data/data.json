@@ -1,0 +1,129 @@
+[{
+    "id": 1,
+    "img": "https://i.ibb.co/bKZRcX4/shakib-al-hasan.jpg",
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "born": "Mar 24, 1987 (33 years)",
+    "role": "Batting Allrounder",
+    "basePrice": 20000000
+  }, 
+  
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/NYxqc4T/Sam-Billings.jpg",
+    "name": "Sam Billings",
+    "country": "England",
+    "born": "Jun 15, 1991 (29 years)",
+    "role": "WK-Batsman",
+    "basePrice": 20000000
+  }, 
+  
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/2M4HGLg/glenn-maxwell.jpg",
+    "name": "Glenn Maxwell",
+    "country": "Australia",
+    "born": "Oct 14, 1988 (32 years)",
+    "role": "Batting Allrounder",
+    "basePrice": 20000000
+  },
+  
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/94sK8gy/Moeen-Ali.jpg",
+    "name": "Moeen Ali",
+    "country": "England",
+    "born": "Jun 18, 1987 (33 years)",
+    "role": "Batting Allrounder",
+    "basePrice": 20000000
+  }, 
+  
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/myLDpVF/umesh-yadav.jpg",
+    "name": "Umesh Yadav",
+    "country": "India",
+    "born": "Oct 25, 1987 (33 years)",
+    "role": "Bowler",
+    "basePrice": 10000000
+  },
+  
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/6XDSKjc/daniel-christian.jpg",
+    "name": "Daniel Christian",
+    "country": "Australia",
+    "born": "May 04, 1983 (37 years)",
+    "role": "Bowling Allrounder",
+    "basePrice": 7500000
+  },
+  
+  {
+    "id": 7,
+    "img": "https://i.ibb.co/F0trLVG/arjun-tendulkar.jpg",
+    "name": "Arjun Tendulkar",
+    "country": "India",
+    "born": "Sep 24, 1999 (21 years)",
+    "role": "Bowling Allrounder",
+    "basePrice": 2000000
+  }, 
+  
+  {
+    "id": 8,
+    "img": "https://i.ibb.co/CzrZ3L1/mujeeb-ur-rahman.jpg",
+    "name": "Mujeeb Ur Rahman",
+    "country": "Afghanistan",
+    "born": "Mar 28, 2001 (19 years)",
+    "role": "Bowler",
+    "basePrice": 15000000
+  },
+  
+  {
+    "id": 9,
+    "img": "https://i.ibb.co/Q9SpCcm/chris-morris.jpg",
+    "name": "Chris Morris",
+    "country": "South Africa",
+    "born": "Apr 30, 1987 (33 years)",
+    "role": "Bowling Allrounder",
+    "basePrice": 7500000
+  },
+  
+  {
+    "id": 10,
+    "img": "https://i.ibb.co/D7t6LBx/tom-curran.jpg",
+    "name": "Tom Curran",
+    "country": "England",
+    "born": "Mar 12, 1995 (25 years)",
+    "role": "Bowling Allrounder",
+    "basePrice": 15000000
+  },
+  
+  {
+    "id": 11,
+    "img": "https://i.ibb.co/sbRPzcN/steven-smith.jpg",
+    "name": "Steven Smith",
+    "country": "Australia",
+    "born": "Jun 02, 1989 (31 years)",
+    "role": "Batsman",
+    "basePrice": 20000000
+  },
+  
+  {
+    "id": 12,
+    "img": "https://i.ibb.co/nP95bSZ/adam-milne.jpg",
+    "name": "Adam Milne",
+    "country": "New Zealand",
+    "born": "Apr 13, 1992 (28 years)",
+    "role": "Bowler",
+    "basePrice": 5000000
+  }, 
+  
+  {
+    "id": 13,
+    "img": "https://i.ibb.co/LZGcRpk/mustafizur-rahman.jpg",
+    "name": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "born": "Sep 06, 1995 (25 years)",
+    "role": "Bowler",
+    "basePrice": 10000000
+  }]
