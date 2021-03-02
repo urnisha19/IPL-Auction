@@ -15,7 +15,7 @@ const Players = (props) => {
             <p><b>Born:</b> {born}</p>
             <p><b>Country:</b> {country}</p>
             <p><b>Role:</b>{role}</p>
-            <p><b>Base Price:</b> {basePrice}</p>
+            <p><b>Base Price:</b> Rs.{basePrice}</p>
             <br/>
             <button className="add-button"
                     onClick={() => props.handleAddPlayer(props.player)}

@@ -5,7 +5,8 @@
     margin:10px 80px 10px 80px;
 }
 .add-button{
-    background-color:rgb(214, 174, 71);
+    background-color:navy;
+    color:white;
     width: 150px;
     height: 30px;
     border: 1px solid black;

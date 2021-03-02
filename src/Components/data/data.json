@@ -4,7 +4,7 @@
     "name": "Shakib Al Hasan",
     "country": "Bangladesh",
     "born": "Mar 24, 1987 (33 years)",
-    "role": "Batting Allrounder",
+    "role": "Batting All-rounder",
     "basePrice": 20000000
   }, 
   
@@ -24,7 +24,7 @@
     "name": "Glenn Maxwell",
     "country": "Australia",
     "born": "Oct 14, 1988 (32 years)",
-    "role": "Batting Allrounder",
+    "role": "Batting All-rounder",
     "basePrice": 20000000
   },
   
@@ -34,7 +34,7 @@
     "name": "Moeen Ali",
     "country": "England",
     "born": "Jun 18, 1987 (33 years)",
-    "role": "Batting Allrounder",
+    "role": "Batting All-rounder",
     "basePrice": 20000000
   }, 
   
@@ -54,7 +54,7 @@
     "name": "Daniel Christian",
     "country": "Australia",
     "born": "May 04, 1983 (37 years)",
-    "role": "Bowling Allrounder",
+    "role": "Bowling All-rounder",
     "basePrice": 7500000
   },
   
@@ -64,7 +64,7 @@
     "name": "Arjun Tendulkar",
     "country": "India",
     "born": "Sep 24, 1999 (21 years)",
-    "role": "Bowling Allrounder",
+    "role": "Bowling All-rounder",
     "basePrice": 2000000
   }, 
   
@@ -84,7 +84,7 @@
     "name": "Chris Morris",
     "country": "South Africa",
     "born": "Apr 30, 1987 (33 years)",
-    "role": "Bowling Allrounder",
+    "role": "Bowling All-rounder",
     "basePrice": 7500000
   },
   
@@ -94,7 +94,7 @@
     "name": "Tom Curran",
     "country": "England",
     "born": "Mar 12, 1995 (25 years)",
-    "role": "Bowling Allrounder",
+    "role": "Bowling All-rounder",
     "basePrice": 15000000
   },
   
