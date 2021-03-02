@@ -17,7 +17,7 @@ const Players = (props) => {
             <p><b>Role:</b>{role}</p>
             <p><b>Base Price:</b> Rs.{basePrice}</p>
             <br/>
-            <button className="add-button"
+            <button id="button" className="add-button"
                     onClick={() => props.handleAddPlayer(props.player)}
                 ><FontAwesomeIcon icon={faUserPlus} />Add to Auction</button>
         </div>
